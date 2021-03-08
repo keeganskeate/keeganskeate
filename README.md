@@ -6,15 +6,7 @@ My name is Keegan Skeate and I am a creator who loves to help. My background is 
 
 - 🌱 Growing [Cannlytics](https://cannlytics.com).
 - 📚 Learning 💙 Flutter 💙
-- 💬 Ask me about Python, data science, and building apps.
-
-<!-- 🚀 Some of my projects include:
-- [ETCH Mobility](https://etchmobility.com) - A website promoting energy, transportation, community, and heritage development in Thurston Country, Washington. -->
-
-<!-- <p></p>
-
-
-<p><img src="https://gpvc.arturio.dev/keeganskeate" /></p> -->
+- 💬 Ask me about Python 🐍, data science 📈, and building apps 🚀.
 
 ![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=keeganskeate&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
