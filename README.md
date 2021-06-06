@@ -4,9 +4,9 @@
 
 My name is Keegan Skeate and I am a creator who loves to help. My background is in economics, with 3 years of writing software. I have earned a master's in economics from both the University of North Carolina, Charlotte and from the University of California, Irvine. I've built a laboratory information management system for cannabis-testing labs. I'm currently working as a data scientist and the founder of Cannlytics, a company that provides cannabis analytics solutions.
 
-- 🌱 Growing [Cannlytics](https://cannlytics.com).
-- 📚 Learning 💙 Flutter 💙
-- 💬 Ask me about Python 🐍, data science 📈, and building apps 🚀.
+- 🌱 Growing [Cannlytics](https://cannlytics.com) 🔥.
+- 📚 Learning Flutter 💙
+- 💬 Ask me about Python 🐍, data science 📈, and launching apps 🚀.
 
 ![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=keeganskeate&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
