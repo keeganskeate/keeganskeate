@@ -16,3 +16,8 @@ My name is [Keegan Skeate](https://keeganskeate.com) and I am a creator who love
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+<p>
+<a href="mailto:keeganskeate@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
