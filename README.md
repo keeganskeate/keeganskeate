@@ -1,18 +1,17 @@
-### Hi there 👋
+### Howdy ✌️
 
 <img src="./assets/images/keeganskeate-robohash-human.png" width="75px" height="75px" style="float:left">
 
-My name is Keegan Skeate and I am a creator who loves to help. My background is in economics, with 3 years of writing software. I have earned a master's in economics from both the University of North Carolina, Charlotte and from the University of California, Irvine. I've built a laboratory information management system for cannabis-testing labs. I'm currently working as a data scientist and the founder of Cannlytics, a company that provides cannabis analytics solutions.
+My name is [Keegan Skeate](https://keeganskeate.com) and I am a creator who loves to help. My background is in economics and I have been creating apps for the past handful of years. My latest project is a [laboratory information management system](https://console.cannlytics.com) designed for labs that test cannabis. I'm currently working as a data scientist and administrator at [Cannlytics](https://cannlytics.com), a company that builds [data pipelines](https://cannlytics.com/data) and provides [statistics as a service](https://cannlytics.com/stats) in the cannabis space. Next up:
 
-- 🌱 Growing [Cannlytics](https://cannlytics.com) 🔥.
-- 📚 Learning Flutter 💙
-- 💬 Ask me about Python 🐍, data science 📈, and launching apps 🚀.
-
-![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=keeganskeate&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keeganskeate&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/keeganskeate/github-readme-stats)
+- 🔥 Growing [Cannlytics](https://cannlytics.com), come enjoy the fire.
+- 🌱 Hosting [Cannabis Data Science](https://meetup.com/cannabis-data-science), come join the fun.
+- 💬 Ask me about the 💐 cannabis industry, data science 🐍, and building apps 🚀. The sky is the limit!
 
 <p>
+<a href="mailto:keegan@cannlytics.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/keegan-skeate-2181b1bb//">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
